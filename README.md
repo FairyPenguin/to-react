@@ -1,6 +1,6 @@
 # to-react ![alt text](./icons8-react-100.png) 
 
-## **a list of all the needed "Javascript" before learning react**
+## **a list of all the needed "Javascript" before learning ReactJS**
 
 *Last update: 15-12-2022*
 
