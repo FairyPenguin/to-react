@@ -1,30 +1,30 @@
 # to-react
-Minimum JavaScript needed to learn React
+## Minimum JavaScript needed to learn React
 
-Last update: 15-12-2022
+## **a list of all the needed "Javascript" before learning react**
 
-Vanilla JS
+*Last update: 15-12-2022*
 
-1- Recursion → Check this link
+###Vanilla JS
 
-2- Closures
+-1- Recursion → Check this link
 
-3- Loop
+-2- Closures
 
-4- Conditionals + [Conditional (ternary) operator]
+-3- Loop
 
-5- Short-circuit [ And && - Or || - NOT !]
+-4- Conditionals + [Conditional (ternary) operator]
 
-6- Reference VS Value
+-5- Short-circuit [ And && - Or || - NOT !]
+
+-6- Reference VS Value
 
 
+-5- Ajax (Asynchronous code in general)[XHR - Http Request]
 
-5- Ajax (Asynchronous code in general)[XHR - Http Request]
+-6- Promises
 
-6- Promises
-
-7- Async / Await
-
+-7- Async / Await
 
 8- Data Structure [Objects / Arrays]
 
