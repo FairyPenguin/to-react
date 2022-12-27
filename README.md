@@ -5,19 +5,19 @@
 
 *Last update: 15-12-2022*
 
-###Vanilla JS
+### Vanilla JS
 
--1- Recursion → Check this link
+- 1- Recursion → Check this link
 
--2- Closures
+- 2- Closures
 
--3- Loop
+- 3- Loop
 
--4- Conditionals + [Conditional (ternary) operator]
+- 4- Conditionals + [Conditional (ternary) operator]
 
--5- Short-circuit [ And && - Or || - NOT !]
+- 5- Short-circuit [ And && - Or || - NOT !]
 
--6- Reference VS Value
+- 6- Reference VS Value
 
 
 -5- Ajax (Asynchronous code in general)[XHR - Http Request]
