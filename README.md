@@ -61,14 +61,14 @@
 - 22- TypeScript [TypeScript: JavaScript With Syntax For Types.]
 
 
-Sources
+*Sources:*
 
-1- [All The JavaScript You Need To Know For React](https://www.youtube.com/watch?v=m55PTVUrlnA)
+*1. [All The JavaScript You Need To Know For React](https://www.youtube.com/watch?v=m55PTVUrlnA)
 
-2- [Do You Know Enough JavaScript To Learn React](https://youtu.be/JR9wsVYp8RQ)
+2. [Do You Know Enough JavaScript To Learn React](https://youtu.be/JR9wsVYp8RQ)
 
-3- [Whats the MINIMUM JavaScript needed to learn react?](https://youtu.be/Xzv_NtVoAB8)
+3. [Whats the MINIMUM JavaScript needed to learn react?](https://youtu.be/Xzv_NtVoAB8)
 
-4- My personal experience in learning "ReactJS"
+4. My personal experience in learning "ReactJS"*
 
 `Creatwd with Neovim`
