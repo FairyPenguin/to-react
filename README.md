@@ -60,6 +60,7 @@
 
 - 22- TypeScript [TypeScript: JavaScript With Syntax For Types.]
 
+---
 
 *Sources:*
 
