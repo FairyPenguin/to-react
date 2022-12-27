@@ -1,4 +1,4 @@
-# to-react ![alt text](./icons8-react-100.png) ## From JS to ReactJS [Unordered list]
+# to-react ![alt text](./icons8-react-100.png) ##From JS to ReactJS [Unordered list]
 
 ## **a list of all the needed "Javascript" before learning react**
 
