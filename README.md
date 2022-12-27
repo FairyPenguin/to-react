@@ -1,5 +1,5 @@
 # to-react
-## Minimum JavaScript needed to learn React
+## From JS ReactJS [Unordered list]
 
 ## **a list of all the needed "Javascript" before learning react**
 
@@ -20,51 +20,45 @@
 - 6- Reference VS Value
 
 
--5- Ajax (Asynchronous code in general)[XHR - Http Request]
+- 5- Ajax (Asynchronous code in general)[XHR - Http Request]
 
--6- Promises
+- 6- Promises
 
--7- Async / Await
+- 7- Async / Await
 
-8- Data Structure [Objects / Arrays]
+- 8 - Data Structure [Objects / Arrays]
 
-9- Methods 
+- 9 - Methods 
 
-10- Scoping [Global - Lexical]
+- 10 - Scoping [Global - Lexical]
+ 
+- 11- ES6 
 
+- 12- Classes
 
+- 13- modules & Imports/Exports
 
-11- ES6 
+- 14- Arrow → Function ()=>
 
-12- Classes
+- 15- Spread Operator …
 
-13- modules & Imports/Exports
-
-14- Arrow → Function ()=>
-
-15- Spread Operator …
-
-16- The Fetch API
+- 16- The Fetch API
 
 
 
 
-16- Functional Methods (HOF) [.Map - .Filter - .Reduce]
+- 17- Functional Methods (HOF) [.Map - .Filter - .Reduce]
 
-17- Destructuring
+- 18- Destructuring
 
+- 19- Package managers [NPM / Yarn]
 
+- 20- Webpack
 
-18- Package managers [NPM / Yarn]
+- 20- Bable
 
-19- Webpack
+- 21- tailwind CSS [A utility-first CSS framework]
 
-20- Bable
+- 22- TypeScript [TypeScript: JavaScript With Syntax For Types.]
 
-
-
-21- tailwind CSS [A utility-first CSS framework]
-
-22- TypeScript [TypeScript: JavaScript With Syntax For Types.]
-
-
+`Creatwd with Neovim`
